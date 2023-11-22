@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+
+# TypeScript
+*.tsbuildinfo
+*.js
+*.js.map
+
+# Visual Studio Code
+.vscode/
+
+# TypeScript output directory
+/dist/
+
+# Environment variables file
+.env.local
+.env.production
